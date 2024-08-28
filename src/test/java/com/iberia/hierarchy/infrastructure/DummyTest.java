@@ -1,4 +1,4 @@
-package com.packlink.hierachy.infrastructure;
+package com.iberia.hierarchy.infrastructure;
 
 import org.junit.jupiter.api.Test;
 
